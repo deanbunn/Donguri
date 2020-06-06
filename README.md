@@ -1,6 +1,8 @@
-## Donguri 
+Donguri
+===========
 
 My beginnings in Java development. Let's hope that this donguri *(Japanese for acorn)* doesn't take years to be a might oak.
+
 
 Ubuntu System Setup:
 ---------------------
@@ -15,7 +17,7 @@ Ubuntu System Setup:
   > $ javac -version
 
 
-Java Commands
+Java Commands:
 --------------------
 
 * Run the interactive Java REPL
@@ -25,7 +27,7 @@ Java Commands
 * Compile Java file into class
   > $ javac donguri.java
 * Run compiled class
-  > java Donguri
+  > $ java Donguri
 
 
 
