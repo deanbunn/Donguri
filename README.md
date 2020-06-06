@@ -28,6 +28,10 @@ Java Commands:
   > $ javac donguri.java
 * Run compiled class
   > $ java Donguri
+* Disassemble a class 
+  > $ javap Donguri.class
+
+
 
 
 
