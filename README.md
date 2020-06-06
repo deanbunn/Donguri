@@ -1,3 +1,12 @@
 ## Donguri 
 
-My beginnings in Java development. Let's hope that this donguri *(Japanese for acorn)* doesn't take years to be a might oak.  
+My beginnings in Java development. Let's hope that this donguri *(Japanese for acorn)* doesn't take years to be a might oak.
+
+Ubuntu system setup:
+
+* $ apt install default-jre
+* $ apt install default-jdk
+* $ java -version
+* $ javac -version
+
+  
